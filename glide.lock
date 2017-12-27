@@ -1,0 +1,17 @@
+hash: b87a2d98305dedde280ebae3c46d90bc62099e89a808cef836216ff790f90bc4
+updated: 2017-12-19T04:17:28.766115801+08:00
+imports:
+- name: github.com/astaxie/beego
+  version: bf5c5626ab429e66d88602e1ab1ab5fbf4629a01
+  subpackages:
+  - config
+  - context
+  - context/param
+  - grace
+  - logs
+  - session
+  - toolbox
+  - utils
+- name: github.com/sethvargo/go-password
+  version: ffbf40db2a6096ca42297c333c46e53f8d732228
+testImports: []

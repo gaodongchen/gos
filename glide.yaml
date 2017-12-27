@@ -1,0 +1,5 @@
+package: gos
+import:
+- package: github.com/astaxie/beego
+  version: ^1.9.2
+- package: github.com/sethvargo/go-password
